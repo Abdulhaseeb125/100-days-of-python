@@ -1,3 +1,5 @@
+# this is a Tim_Urban age calculator that tells you
+# how may days,weeks and months your have lived and you have left if your lived for 90 years
 total_years = 90
 days_in_a_year = 365
 weeks_in_a_year = 52
@@ -12,3 +14,5 @@ weeks_left = weeks_in_90_years - your_age * weeks_in_a_year
 print(f"According to Tim_Urban.You have {days_left} days , {weeks_left} weeks and {months_left} months remaining")
 print(f"And your have lived for {your_age * days_in_a_year} days ,"
       f"{your_age * weeks_in_a_year} weeks and {your_age * months_in_a_year} months")
+
+#.................The End..................
