@@ -11,7 +11,7 @@ class Quiz:
         self.asked = 0
 
     def Counter(self):
-        print(f"Your Score is {self.true_counter}/{self.asked}")
+        print(f"Your Score is {self.true_counter}/{self.asked}, True/False: ")
 
     def user_input(self):
         while self.Again:
